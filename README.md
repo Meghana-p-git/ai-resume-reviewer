@@ -112,3 +112,9 @@ Example response:
 ## Learning Objectives
 
 This project is also a hands-on exercise in backend development, HTTP methods, REST API fundamentals, input validation, template rendering, and frontend-backend integration.
+
+## Development Approach
+
+This project is being developed incrementally, starting with Flask
+routes, HTTP methods, form handling, input validation, and template
+rendering. Future improvements will build on this foundation.
